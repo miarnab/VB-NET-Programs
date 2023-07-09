@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\bin\Debug\net6.0\BasicBankDetails.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\bin\Debug\net6.0\BasicBankDetails.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\bin\Debug\net6.0\BasicBankDetails.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\bin\Debug\net6.0\BasicBankDetails.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\bin\Debug\net6.0\BasicBankDetails.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\obj\Debug\net6.0\BasicBankDetails.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\obj\Debug\net6.0\BasicBankDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\obj\Debug\net6.0\BasicBankDetails.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\obj\Debug\net6.0\BasicBankDetails.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\obj\Debug\net6.0\BasicBankDetails.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\obj\Debug\net6.0\BasicBankDetails.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\obj\Debug\net6.0\refint\BasicBankDetails.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\obj\Debug\net6.0\BasicBankDetails.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\obj\Debug\net6.0\BasicBankDetails.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\BasicBankDetails\obj\Debug\net6.0\ref\BasicBankDetails.dll

@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\obj\Debug\net6.0\refint\MultiplicationTable.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\MultiplicationTable\obj\Debug\net6.0\ref\MultiplicationTable.dll

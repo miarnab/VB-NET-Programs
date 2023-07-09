@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\bin\Debug\net6.0\DigitAddition.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\bin\Debug\net6.0\DigitAddition.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\bin\Debug\net6.0\DigitAddition.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\bin\Debug\net6.0\DigitAddition.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\bin\Debug\net6.0\DigitAddition.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\obj\Debug\net6.0\DigitAddition.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\obj\Debug\net6.0\DigitAddition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\obj\Debug\net6.0\DigitAddition.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\obj\Debug\net6.0\DigitAddition.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\obj\Debug\net6.0\DigitAddition.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\obj\Debug\net6.0\DigitAddition.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\obj\Debug\net6.0\refint\DigitAddition.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\obj\Debug\net6.0\DigitAddition.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\obj\Debug\net6.0\DigitAddition.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\DigitAddition\obj\Debug\net6.0\ref\DigitAddition.dll

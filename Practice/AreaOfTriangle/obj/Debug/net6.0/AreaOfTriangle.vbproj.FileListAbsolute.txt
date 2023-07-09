@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\obj\Debug\net6.0\refint\AreaOfTriangle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaOfTriangle\obj\Debug\net6.0\ref\AreaOfTriangle.dll

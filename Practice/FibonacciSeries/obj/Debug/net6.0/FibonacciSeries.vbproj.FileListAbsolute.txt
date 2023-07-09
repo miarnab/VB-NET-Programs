@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\obj\Debug\net6.0\refint\FibonacciSeries.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FibonacciSeries\obj\Debug\net6.0\ref\FibonacciSeries.dll

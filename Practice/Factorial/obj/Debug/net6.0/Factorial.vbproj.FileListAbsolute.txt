@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\bin\Debug\net6.0\Factorial.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\bin\Debug\net6.0\Factorial.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\bin\Debug\net6.0\Factorial.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\bin\Debug\net6.0\Factorial.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\obj\Debug\net6.0\Factorial.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\obj\Debug\net6.0\Factorial.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\obj\Debug\net6.0\Factorial.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\obj\Debug\net6.0\Factorial.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\Factorial\obj\Debug\net6.0\ref\Factorial.dll

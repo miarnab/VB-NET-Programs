@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\bin\Debug\net6.0\ThirdAngleOfTriangle.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\bin\Debug\net6.0\ThirdAngleOfTriangle.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\bin\Debug\net6.0\ThirdAngleOfTriangle.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\bin\Debug\net6.0\ThirdAngleOfTriangle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\bin\Debug\net6.0\ThirdAngleOfTriangle.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\obj\Debug\net6.0\ThirdAngleOfTriangle.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\obj\Debug\net6.0\ThirdAngleOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\obj\Debug\net6.0\ThirdAngleOfTriangle.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\obj\Debug\net6.0\ThirdAngleOfTriangle.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\obj\Debug\net6.0\ThirdAngleOfTriangle.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\obj\Debug\net6.0\ThirdAngleOfTriangle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\obj\Debug\net6.0\refint\ThirdAngleOfTriangle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\obj\Debug\net6.0\ThirdAngleOfTriangle.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\obj\Debug\net6.0\ThirdAngleOfTriangle.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\ThirdAngleOfTriangle\obj\Debug\net6.0\ref\ThirdAngleOfTriangle.dll

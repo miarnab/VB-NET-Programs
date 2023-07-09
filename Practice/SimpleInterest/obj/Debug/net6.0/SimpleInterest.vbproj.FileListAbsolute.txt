@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\bin\Debug\net6.0\SimpleInterest.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\bin\Debug\net6.0\SimpleInterest.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\bin\Debug\net6.0\SimpleInterest.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\bin\Debug\net6.0\SimpleInterest.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\bin\Debug\net6.0\SimpleInterest.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\obj\Debug\net6.0\SimpleInterest.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\obj\Debug\net6.0\SimpleInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\obj\Debug\net6.0\SimpleInterest.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\obj\Debug\net6.0\SimpleInterest.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\obj\Debug\net6.0\SimpleInterest.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\obj\Debug\net6.0\SimpleInterest.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\obj\Debug\net6.0\refint\SimpleInterest.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\obj\Debug\net6.0\SimpleInterest.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\obj\Debug\net6.0\SimpleInterest.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\SimpleInterest\obj\Debug\net6.0\ref\SimpleInterest.dll

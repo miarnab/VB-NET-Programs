@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\bin\Debug\net6.0\Sum.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\bin\Debug\net6.0\Sum.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\bin\Debug\net6.0\Sum.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\bin\Debug\net6.0\Sum.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\bin\Debug\net6.0\Sum.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\obj\Debug\net6.0\Sum.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\obj\Debug\net6.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\obj\Debug\net6.0\Sum.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\obj\Debug\net6.0\Sum.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\obj\Debug\net6.0\Sum.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\obj\Debug\net6.0\Sum.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\obj\Debug\net6.0\refint\Sum.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\obj\Debug\net6.0\Sum.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\obj\Debug\net6.0\Sum.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Sum\obj\Debug\net6.0\ref\Sum.dll

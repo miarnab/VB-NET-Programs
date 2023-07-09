@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\bin\Debug\net6.0\AreaAndCircumferenceOfCircle.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\bin\Debug\net6.0\AreaAndCircumferenceOfCircle.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\bin\Debug\net6.0\AreaAndCircumferenceOfCircle.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\bin\Debug\net6.0\AreaAndCircumferenceOfCircle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\bin\Debug\net6.0\AreaAndCircumferenceOfCircle.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\obj\Debug\net6.0\AreaAndCircumferenceOfCircle.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\obj\Debug\net6.0\AreaAndCircumferenceOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\obj\Debug\net6.0\AreaAndCircumferenceOfCircle.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\obj\Debug\net6.0\AreaAndCircumferenceOfCircle.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\obj\Debug\net6.0\AreaAndCircumferenceOfCircle.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\obj\Debug\net6.0\AreaAndCircumferenceOfCircle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\obj\Debug\net6.0\refint\AreaAndCircumferenceOfCircle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\obj\Debug\net6.0\AreaAndCircumferenceOfCircle.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\obj\Debug\net6.0\AreaAndCircumferenceOfCircle.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\AreaAndCircumferenceOfCircle\obj\Debug\net6.0\ref\AreaAndCircumferenceOfCircle.dll

@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\bin\Debug\net6.0\Library.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\bin\Debug\net6.0\Library.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\bin\Debug\net6.0\Library.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\obj\Debug\net6.0\Library.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\obj\Debug\net6.0\Library.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\obj\Debug\net6.0\Library.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\obj\Debug\net6.0\Library.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\obj\Debug\net6.0\refint\Library.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\obj\Debug\net6.0\Library.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Tasks\Library\obj\Debug\net6.0\ref\Library.dll

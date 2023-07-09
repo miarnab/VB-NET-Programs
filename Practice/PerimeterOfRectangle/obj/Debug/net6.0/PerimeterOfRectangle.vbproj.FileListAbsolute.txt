@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\bin\Debug\net6.0\PerimeterOfRectangle.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\bin\Debug\net6.0\PerimeterOfRectangle.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\bin\Debug\net6.0\PerimeterOfRectangle.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\bin\Debug\net6.0\PerimeterOfRectangle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\bin\Debug\net6.0\PerimeterOfRectangle.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\obj\Debug\net6.0\PerimeterOfRectangle.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\obj\Debug\net6.0\PerimeterOfRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\obj\Debug\net6.0\PerimeterOfRectangle.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\obj\Debug\net6.0\PerimeterOfRectangle.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\obj\Debug\net6.0\PerimeterOfRectangle.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\obj\Debug\net6.0\PerimeterOfRectangle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\obj\Debug\net6.0\refint\PerimeterOfRectangle.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\obj\Debug\net6.0\PerimeterOfRectangle.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\obj\Debug\net6.0\PerimeterOfRectangle.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\PerimeterOfRectangle\obj\Debug\net6.0\ref\PerimeterOfRectangle.dll

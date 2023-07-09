@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\bin\Debug\net6.0\FahrenheitToCelcius.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\bin\Debug\net6.0\FahrenheitToCelcius.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\bin\Debug\net6.0\FahrenheitToCelcius.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\bin\Debug\net6.0\FahrenheitToCelcius.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\bin\Debug\net6.0\FahrenheitToCelcius.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\obj\Debug\net6.0\FahrenheitToCelcius.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\obj\Debug\net6.0\FahrenheitToCelcius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\obj\Debug\net6.0\FahrenheitToCelcius.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\obj\Debug\net6.0\FahrenheitToCelcius.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\obj\Debug\net6.0\FahrenheitToCelcius.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\obj\Debug\net6.0\FahrenheitToCelcius.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\obj\Debug\net6.0\refint\FahrenheitToCelcius.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\obj\Debug\net6.0\FahrenheitToCelcius.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\obj\Debug\net6.0\FahrenheitToCelcius.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\FahrenheitToCelcius\obj\Debug\net6.0\ref\FahrenheitToCelcius.dll

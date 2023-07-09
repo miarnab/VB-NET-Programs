@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\bin\Debug\net6.0\ArmstrongRange.exe
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\bin\Debug\net6.0\ArmstrongRange.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\bin\Debug\net6.0\ArmstrongRange.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\bin\Debug\net6.0\ArmstrongRange.dll
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\bin\Debug\net6.0\ArmstrongRange.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\obj\Debug\net6.0\ArmstrongRange.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\obj\Debug\net6.0\ArmstrongRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\obj\Debug\net6.0\ArmstrongRange.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\obj\Debug\net6.0\ArmstrongRange.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\obj\Debug\net6.0\ArmstrongRange.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\obj\Debug\net6.0\ArmstrongRange.dll
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\obj\Debug\net6.0\refint\ArmstrongRange.dll
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\obj\Debug\net6.0\ArmstrongRange.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\obj\Debug\net6.0\ArmstrongRange.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\ArmstrongRange\obj\Debug\net6.0\ref\ArmstrongRange.dll

@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\bin\Debug\net6.0\TimeInSeconds.exe
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\bin\Debug\net6.0\TimeInSeconds.deps.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\bin\Debug\net6.0\TimeInSeconds.runtimeconfig.json
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\bin\Debug\net6.0\TimeInSeconds.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\bin\Debug\net6.0\TimeInSeconds.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\obj\Debug\net6.0\TimeInSeconds.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\obj\Debug\net6.0\TimeInSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\obj\Debug\net6.0\TimeInSeconds.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\obj\Debug\net6.0\TimeInSeconds.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\obj\Debug\net6.0\TimeInSeconds.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\obj\Debug\net6.0\TimeInSeconds.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\obj\Debug\net6.0\refint\TimeInSeconds.dll
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\obj\Debug\net6.0\TimeInSeconds.pdb
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\obj\Debug\net6.0\TimeInSeconds.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB.NET Programs\Practice\TimeInSeconds\obj\Debug\net6.0\ref\TimeInSeconds.dll
