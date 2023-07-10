@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\bin\Debug\net6.0\IliterateMalePopulation.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\bin\Debug\net6.0\IliterateMalePopulation.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\bin\Debug\net6.0\IliterateMalePopulation.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\bin\Debug\net6.0\IliterateMalePopulation.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\bin\Debug\net6.0\IliterateMalePopulation.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\obj\Debug\net6.0\IliterateMalePopulation.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\obj\Debug\net6.0\IliterateMalePopulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\obj\Debug\net6.0\IliterateMalePopulation.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\obj\Debug\net6.0\IliterateMalePopulation.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\obj\Debug\net6.0\IliterateMalePopulation.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\obj\Debug\net6.0\IliterateMalePopulation.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\obj\Debug\net6.0\refint\IliterateMalePopulation.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\obj\Debug\net6.0\IliterateMalePopulation.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\obj\Debug\net6.0\IliterateMalePopulation.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\IliterateMalePopulation\obj\Debug\net6.0\ref\IliterateMalePopulation.dll

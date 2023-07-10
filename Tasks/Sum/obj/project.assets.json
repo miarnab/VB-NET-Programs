@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\Sum\\Sum.vbproj",
+      "projectUniqueName": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\Sum\\Sum.vbproj",
       "projectName": "Sum",
-      "projectPath": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\Sum\\Sum.vbproj",
+      "projectPath": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\Sum\\Sum.vbproj",
       "packagesPath": "C:\\Users\\mitra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\Sum\\obj\\",
+      "outputPath": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mitra\\AppData\\Roaming\\NuGet\\NuGet.Config",

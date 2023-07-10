@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\DataTypes\\DataTypes.vbproj",
+      "projectUniqueName": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\DataTypes\\DataTypes.vbproj",
       "projectName": "DataTypes",
-      "projectPath": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\DataTypes\\DataTypes.vbproj",
+      "projectPath": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\DataTypes\\DataTypes.vbproj",
       "packagesPath": "C:\\Users\\mitra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\DataTypes\\obj\\",
+      "outputPath": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\DataTypes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mitra\\AppData\\Roaming\\NuGet\\NuGet.Config",

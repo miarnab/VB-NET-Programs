@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\MultiplicationTable\\MultiplicationTable.vbproj",
+      "projectUniqueName": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\MultiplicationTable\\MultiplicationTable.vbproj",
       "projectName": "MultiplicationTable",
-      "projectPath": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\MultiplicationTable\\MultiplicationTable.vbproj",
+      "projectPath": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\MultiplicationTable\\MultiplicationTable.vbproj",
       "packagesPath": "C:\\Users\\mitra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\MultiplicationTable\\obj\\",
+      "outputPath": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\MultiplicationTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mitra\\AppData\\Roaming\\NuGet\\NuGet.Config",
