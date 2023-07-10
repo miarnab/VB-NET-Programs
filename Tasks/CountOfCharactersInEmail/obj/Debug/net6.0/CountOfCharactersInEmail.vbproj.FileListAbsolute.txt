@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\bin\Debug\net6.0\CountOfCharactersInEmail.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\bin\Debug\net6.0\CountOfCharactersInEmail.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\bin\Debug\net6.0\CountOfCharactersInEmail.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\bin\Debug\net6.0\CountOfCharactersInEmail.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\bin\Debug\net6.0\CountOfCharactersInEmail.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\obj\Debug\net6.0\CountOfCharactersInEmail.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\obj\Debug\net6.0\CountOfCharactersInEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\obj\Debug\net6.0\CountOfCharactersInEmail.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\obj\Debug\net6.0\CountOfCharactersInEmail.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\obj\Debug\net6.0\CountOfCharactersInEmail.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\obj\Debug\net6.0\CountOfCharactersInEmail.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\obj\Debug\net6.0\refint\CountOfCharactersInEmail.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\obj\Debug\net6.0\CountOfCharactersInEmail.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\obj\Debug\net6.0\CountOfCharactersInEmail.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\CountOfCharactersInEmail\obj\Debug\net6.0\ref\CountOfCharactersInEmail.dll
