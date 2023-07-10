@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\Tasks\\BankDetails\\BankDetails.vbproj",
+      "projectUniqueName": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\BankDetails\\BankDetails.vbproj",
       "projectName": "BankDetails",
-      "projectPath": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\Tasks\\BankDetails\\BankDetails.vbproj",
+      "projectPath": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\BankDetails\\BankDetails.vbproj",
       "packagesPath": "C:\\Users\\mitra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\Tasks\\BankDetails\\obj\\",
+      "outputPath": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\BankDetails\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mitra\\AppData\\Roaming\\NuGet\\NuGet.Config",

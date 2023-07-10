@@ -31,20 +31,32 @@ Module Program
             Console.WriteLine("The Account Type is: " & AccountType)
         End Sub
         Sub dotransaction()
-            Dim balance As Integer
-            Dim query As String
+            Dim balance, i As Integer
             For i = 0 To 1 Step 0
-                Console.WriteLine("Do you want to deposit in your account? ")
-                query = Console.ReadLine()
+                Console.WriteLine("Do you want to do a transaction? ")
+                Dim query As String = Console.ReadLine()
                 If query = "Y" Then
-                    Console.WriteLine("Enter the Amount to be Deposited: ")
-                    AmountDeposited = Convert.ToDouble(Console.ReadLine())
-                    balance = balance + AmountDeposited
+                    Console.WriteLine("1. Deposit")
+                    Console.WriteLine("2. Withdrawl")
+                    Console.WriteLine("Enter the user's choice: ")
+                    Dim choice As Integer = Convert.ToInt32(Console.ReadLine())
+                    Select Case choice
+                        Case 1
+                            Console.WriteLine("Enter the amount to deposit: ")
+                            Dim deposit As Integer = Convert.ToInt64(Console.ReadLine())
+                            balance = balance + deposit
+                        Case 2
+                            Console.WriteLine("Enter the amount to withdraw: ")
+                            Dim withdraw As Integer = Convert.ToInt64(Console.ReadLine())
+                            balance = balance - withdraw
+                        Case Else
+                            Console.WriteLine("Not a valid choice")
+                    End Select
                 Else
                     Exit For
                 End If
             Next
-            Console.WriteLine("The net balance in your account is: " & balance)
+            Console.WriteLine("The account balance is: " & balance)
         End Sub
     End Class
     Sub Main(args As String())
