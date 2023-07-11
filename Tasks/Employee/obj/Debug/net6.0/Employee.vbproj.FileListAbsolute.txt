@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\bin\Debug\net6.0\Employee.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\bin\Debug\net6.0\Employee.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\bin\Debug\net6.0\Employee.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\bin\Debug\net6.0\Employee.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\obj\Debug\net6.0\Employee.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\obj\Debug\net6.0\Employee.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\obj\Debug\net6.0\Employee.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\obj\Debug\net6.0\refint\Employee.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\obj\Debug\net6.0\Employee.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Employee\obj\Debug\net6.0\ref\Employee.dll

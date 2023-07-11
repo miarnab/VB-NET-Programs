@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\bin\Debug\net6.0\VehicleInheritance.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\bin\Debug\net6.0\VehicleInheritance.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\bin\Debug\net6.0\VehicleInheritance.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\bin\Debug\net6.0\VehicleInheritance.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\bin\Debug\net6.0\VehicleInheritance.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\obj\Debug\net6.0\VehicleInheritance.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\obj\Debug\net6.0\VehicleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\obj\Debug\net6.0\VehicleInheritance.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\obj\Debug\net6.0\VehicleInheritance.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\obj\Debug\net6.0\VehicleInheritance.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\obj\Debug\net6.0\VehicleInheritance.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\obj\Debug\net6.0\refint\VehicleInheritance.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\obj\Debug\net6.0\VehicleInheritance.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\obj\Debug\net6.0\VehicleInheritance.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\VehicleInheritance\obj\Debug\net6.0\ref\VehicleInheritance.dll

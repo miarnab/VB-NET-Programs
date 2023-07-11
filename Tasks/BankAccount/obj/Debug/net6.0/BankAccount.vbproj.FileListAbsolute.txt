@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\bin\Debug\net6.0\BankAccount.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\bin\Debug\net6.0\BankAccount.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\bin\Debug\net6.0\BankAccount.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\bin\Debug\net6.0\BankAccount.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\bin\Debug\net6.0\BankAccount.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\obj\Debug\net6.0\BankAccount.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\obj\Debug\net6.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\obj\Debug\net6.0\BankAccount.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\obj\Debug\net6.0\BankAccount.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\obj\Debug\net6.0\refint\BankAccount.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\obj\Debug\net6.0\BankAccount.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\obj\Debug\net6.0\BankAccount.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\BankAccount\obj\Debug\net6.0\ref\BankAccount.dll
