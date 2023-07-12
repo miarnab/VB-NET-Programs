@@ -10,10 +10,13 @@ Module Program
             AccountType = ""
             AccountBalance = 0.00
         End Sub
-        Sub New(ByVal an As Integer, ByVal at As String, ByVal ab As Double)
+        Sub New(ByVal an As Integer, ByVal at As String)
             AccountNumber = an
             AccountType = at
-            AccountBalance = ab
+        End Sub
+        Sub getBankDetails()
+            Console.WriteLine("Enter the Account Balance: ")
+            AccountBalance = Convert.ToDouble(Console.ReadLine())
         End Sub
         Sub checkAccountBalance()
             If AccountBalance > 200000 Then
@@ -35,9 +38,8 @@ Module Program
         Dim an As Integer = Convert.ToInt64(Console.ReadLine())
         Console.WriteLine("Enter the Account Type: ")
         Dim at As String = Console.ReadLine()
-        Console.WriteLine("Enter the Account Balance: ")
-        Dim ab = Convert.ToDouble(Console.ReadLine())
-        Dim ob As BankAccountParameterized = New BankAccountParameterized(an, at, ab)
+        Dim ob As BankAccountParameterized = New BankAccountParameterized(an, at)
+        ob.getBankDetails()
         ob.checkAccountBalance()
         ob.display()
     End Sub
