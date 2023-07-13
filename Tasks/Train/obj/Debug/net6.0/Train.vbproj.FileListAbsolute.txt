@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\bin\Debug\net6.0\Train.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\bin\Debug\net6.0\Train.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\bin\Debug\net6.0\Train.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\bin\Debug\net6.0\Train.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\bin\Debug\net6.0\Train.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\obj\Debug\net6.0\Train.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\obj\Debug\net6.0\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\obj\Debug\net6.0\Train.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\obj\Debug\net6.0\Train.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\obj\Debug\net6.0\Train.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\obj\Debug\net6.0\Train.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\obj\Debug\net6.0\refint\Train.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\obj\Debug\net6.0\Train.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\obj\Debug\net6.0\Train.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Train\obj\Debug\net6.0\ref\Train.dll

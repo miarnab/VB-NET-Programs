@@ -42,7 +42,7 @@ Module Program
         End Sub
         Sub printBookInfo()
             For i = 0 To BookCode.Length - 1 And BookName.Length - 1 And Author.Length - 1 Step 1
-                Console.WriteLine("Book Code: {0} , Book Name: {1} , Author: {2}" & BookCode(i) & BookName(i) & Author(i))
+                Console.WriteLine("Book Code: {0} , Book Name: {1} , Author: {2}", BookCode(i), BookName(i), Author(i))
             Next
         End Sub
     End Class

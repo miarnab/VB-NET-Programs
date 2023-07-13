@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\bin\Debug\net6.0\ArraySortAscending.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\bin\Debug\net6.0\ArraySortAscending.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\bin\Debug\net6.0\ArraySortAscending.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\bin\Debug\net6.0\ArraySortAscending.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\bin\Debug\net6.0\ArraySortAscending.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\obj\Debug\net6.0\ArraySortAscending.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\obj\Debug\net6.0\ArraySortAscending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\obj\Debug\net6.0\ArraySortAscending.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\obj\Debug\net6.0\ArraySortAscending.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\obj\Debug\net6.0\ArraySortAscending.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\obj\Debug\net6.0\ArraySortAscending.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\obj\Debug\net6.0\refint\ArraySortAscending.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\obj\Debug\net6.0\ArraySortAscending.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\obj\Debug\net6.0\ArraySortAscending.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\ArraySortAscending\obj\Debug\net6.0\ref\ArraySortAscending.dll

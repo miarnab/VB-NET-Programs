@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\Tasks\\Library\\Library.vbproj": {}
+    "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\Library\\Library.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\Tasks\\Library\\Library.vbproj": {
+    "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\Library\\Library.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\Tasks\\Library\\Library.vbproj",
+        "projectUniqueName": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\Library\\Library.vbproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\Tasks\\Library\\Library.vbproj",
+        "projectPath": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\Library\\Library.vbproj",
         "packagesPath": "C:\\Users\\mitra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mitra\\Desktop\\VB.NET Programs\\Tasks\\Library\\obj\\",
+        "outputPath": "C:\\Users\\mitra\\Desktop\\VB-NET-Programs\\Tasks\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mitra\\AppData\\Roaming\\NuGet\\NuGet.Config",
