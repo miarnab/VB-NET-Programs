@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\obj\Debug\net6.0\refint\ArmstrongNumber.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumber\obj\Debug\net6.0\ref\ArmstrongNumber.dll

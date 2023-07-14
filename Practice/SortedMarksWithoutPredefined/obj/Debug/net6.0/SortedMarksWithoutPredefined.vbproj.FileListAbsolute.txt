@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\bin\Debug\net6.0\SortedMarksWithoutPredefined.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\bin\Debug\net6.0\SortedMarksWithoutPredefined.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\bin\Debug\net6.0\SortedMarksWithoutPredefined.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\bin\Debug\net6.0\SortedMarksWithoutPredefined.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\bin\Debug\net6.0\SortedMarksWithoutPredefined.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\obj\Debug\net6.0\SortedMarksWithoutPredefined.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\obj\Debug\net6.0\SortedMarksWithoutPredefined.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\obj\Debug\net6.0\SortedMarksWithoutPredefined.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\obj\Debug\net6.0\SortedMarksWithoutPredefined.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\obj\Debug\net6.0\SortedMarksWithoutPredefined.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\obj\Debug\net6.0\SortedMarksWithoutPredefined.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\obj\Debug\net6.0\refint\SortedMarksWithoutPredefined.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\obj\Debug\net6.0\SortedMarksWithoutPredefined.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\obj\Debug\net6.0\SortedMarksWithoutPredefined.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksWithoutPredefined\obj\Debug\net6.0\ref\SortedMarksWithoutPredefined.dll

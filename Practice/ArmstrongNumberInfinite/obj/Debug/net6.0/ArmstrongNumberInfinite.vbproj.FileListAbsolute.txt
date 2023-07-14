@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\bin\Debug\net6.0\ArmstrongNumberInfinite.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\bin\Debug\net6.0\ArmstrongNumberInfinite.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\bin\Debug\net6.0\ArmstrongNumberInfinite.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\bin\Debug\net6.0\ArmstrongNumberInfinite.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\bin\Debug\net6.0\ArmstrongNumberInfinite.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\obj\Debug\net6.0\ArmstrongNumberInfinite.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\obj\Debug\net6.0\ArmstrongNumberInfinite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\obj\Debug\net6.0\ArmstrongNumberInfinite.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\obj\Debug\net6.0\ArmstrongNumberInfinite.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\obj\Debug\net6.0\ArmstrongNumberInfinite.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\obj\Debug\net6.0\ArmstrongNumberInfinite.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\obj\Debug\net6.0\refint\ArmstrongNumberInfinite.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\obj\Debug\net6.0\ArmstrongNumberInfinite.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\obj\Debug\net6.0\ArmstrongNumberInfinite.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\ArmstrongNumberInfinite\obj\Debug\net6.0\ref\ArmstrongNumberInfinite.dll

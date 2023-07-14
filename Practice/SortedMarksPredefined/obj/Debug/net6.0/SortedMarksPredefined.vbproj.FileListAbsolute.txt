@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\bin\Debug\net6.0\SortedMarksPredefined.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\bin\Debug\net6.0\SortedMarksPredefined.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\bin\Debug\net6.0\SortedMarksPredefined.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\bin\Debug\net6.0\SortedMarksPredefined.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\bin\Debug\net6.0\SortedMarksPredefined.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\obj\Debug\net6.0\SortedMarksPredefined.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\obj\Debug\net6.0\SortedMarksPredefined.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\obj\Debug\net6.0\SortedMarksPredefined.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\obj\Debug\net6.0\SortedMarksPredefined.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\obj\Debug\net6.0\SortedMarksPredefined.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\obj\Debug\net6.0\SortedMarksPredefined.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\obj\Debug\net6.0\refint\SortedMarksPredefined.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\obj\Debug\net6.0\SortedMarksPredefined.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\obj\Debug\net6.0\SortedMarksPredefined.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\SortedMarksPredefined\obj\Debug\net6.0\ref\SortedMarksPredefined.dll
