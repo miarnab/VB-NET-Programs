@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\bin\Debug\net6.0\Calculation.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\bin\Debug\net6.0\Calculation.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\bin\Debug\net6.0\Calculation.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\bin\Debug\net6.0\Calculation.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\bin\Debug\net6.0\Calculation.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\obj\Debug\net6.0\Calculation.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\obj\Debug\net6.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\obj\Debug\net6.0\Calculation.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\obj\Debug\net6.0\Calculation.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\obj\Debug\net6.0\refint\Calculation.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\obj\Debug\net6.0\Calculation.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\obj\Debug\net6.0\Calculation.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Practice\Calculation\obj\Debug\net6.0\ref\Calculation.dll
