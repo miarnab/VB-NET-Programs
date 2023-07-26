@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\bin\Debug\net6.0\Student.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\bin\Debug\net6.0\Student.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\bin\Debug\net6.0\Student.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\bin\Debug\net6.0\Student.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\bin\Debug\net6.0\Student.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\obj\Debug\net6.0\Student.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\obj\Debug\net6.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\obj\Debug\net6.0\Student.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\obj\Debug\net6.0\Student.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\obj\Debug\net6.0\Student.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\obj\Debug\net6.0\Student.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\obj\Debug\net6.0\refint\Student.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\obj\Debug\net6.0\Student.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\obj\Debug\net6.0\Student.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Student\obj\Debug\net6.0\ref\Student.dll

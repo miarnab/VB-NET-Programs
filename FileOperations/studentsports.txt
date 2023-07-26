@@ -1,0 +1,10 @@
+Student ID: 1
+Student Department: ECE
+Student Sport: Cricket
+Student Year: 4
+College Name: BPPIMT
+Student ID: 2
+Student Department: CSE
+Student Sport: Football
+Student Year: 3
+College Name: ABCD

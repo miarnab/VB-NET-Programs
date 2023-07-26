@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\bin\Debug\net6.0\EmployeeExceptionHandling.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\bin\Debug\net6.0\EmployeeExceptionHandling.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\bin\Debug\net6.0\EmployeeExceptionHandling.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\bin\Debug\net6.0\EmployeeExceptionHandling.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\bin\Debug\net6.0\EmployeeExceptionHandling.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\obj\Debug\net6.0\EmployeeExceptionHandling.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\obj\Debug\net6.0\EmployeeExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\obj\Debug\net6.0\EmployeeExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\obj\Debug\net6.0\EmployeeExceptionHandling.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\obj\Debug\net6.0\EmployeeExceptionHandling.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\obj\Debug\net6.0\EmployeeExceptionHandling.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\obj\Debug\net6.0\refint\EmployeeExceptionHandling.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\obj\Debug\net6.0\EmployeeExceptionHandling.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\obj\Debug\net6.0\EmployeeExceptionHandling.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\EmployeeExceptionHandling\obj\Debug\net6.0\ref\EmployeeExceptionHandling.dll

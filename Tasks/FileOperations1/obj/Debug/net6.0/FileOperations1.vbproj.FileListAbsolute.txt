@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\bin\Debug\net6.0\FileOperations1.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\bin\Debug\net6.0\FileOperations1.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\bin\Debug\net6.0\FileOperations1.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\bin\Debug\net6.0\FileOperations1.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\bin\Debug\net6.0\FileOperations1.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\obj\Debug\net6.0\FileOperations1.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\obj\Debug\net6.0\FileOperations1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\obj\Debug\net6.0\FileOperations1.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\obj\Debug\net6.0\FileOperations1.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\obj\Debug\net6.0\FileOperations1.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\obj\Debug\net6.0\FileOperations1.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\obj\Debug\net6.0\refint\FileOperations1.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\obj\Debug\net6.0\FileOperations1.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\obj\Debug\net6.0\FileOperations1.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\FileOperations1\obj\Debug\net6.0\ref\FileOperations1.dll

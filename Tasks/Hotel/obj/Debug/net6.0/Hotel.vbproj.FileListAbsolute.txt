@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\bin\Debug\net6.0\Hotel.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\bin\Debug\net6.0\Hotel.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\bin\Debug\net6.0\Hotel.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\bin\Debug\net6.0\Hotel.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\bin\Debug\net6.0\Hotel.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\obj\Debug\net6.0\Hotel.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\obj\Debug\net6.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\obj\Debug\net6.0\Hotel.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\obj\Debug\net6.0\Hotel.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\obj\Debug\net6.0\refint\Hotel.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\obj\Debug\net6.0\Hotel.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\obj\Debug\net6.0\Hotel.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\Hotel\obj\Debug\net6.0\ref\Hotel.dll

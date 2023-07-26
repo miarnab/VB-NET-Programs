@@ -1,0 +1,39 @@
+Difference found at line 7:
+File1: Student Name: Arnab
+File2: Student Department: ECE
+
+Difference found at line 8:
+File1: Student Department: ECE
+File2: Student Sport: Cricket
+
+Difference found at line 9:
+File1: Student Percentage: 80
+File2: Student Year: 4
+
+Difference found at line 10:
+File1: Student Year: 4
+File2: College Name: BPPIMT
+
+Difference found at line 12:
+File1: Student Name: Parthivan
+File2: Student Department: CSE
+
+Difference found at line 13:
+File1: Student Department: IT
+File2: Student Sport: Football
+
+Difference found at line 14:
+File1: Student Percentage: 90
+File2: Student Year: 3
+
+Difference found at line 15:
+File1: Student Year: 3
+File2: College Name: ABCD
+
+Additional lines found in File1:
+Student ID: 3
+Student Name: Sathish
+Student Department: CSE
+Student Percentage: 85
+Student Year: 2
+

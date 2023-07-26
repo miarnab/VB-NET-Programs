@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\bin\Debug\net6.0\PhoneNumber.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\bin\Debug\net6.0\PhoneNumber.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\bin\Debug\net6.0\PhoneNumber.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\bin\Debug\net6.0\PhoneNumber.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\bin\Debug\net6.0\PhoneNumber.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\obj\Debug\net6.0\PhoneNumber.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\obj\Debug\net6.0\PhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\obj\Debug\net6.0\PhoneNumber.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\obj\Debug\net6.0\PhoneNumber.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\obj\Debug\net6.0\PhoneNumber.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\obj\Debug\net6.0\PhoneNumber.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\obj\Debug\net6.0\refint\PhoneNumber.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\obj\Debug\net6.0\PhoneNumber.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\obj\Debug\net6.0\PhoneNumber.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\PhoneNumber\obj\Debug\net6.0\ref\PhoneNumber.dll
