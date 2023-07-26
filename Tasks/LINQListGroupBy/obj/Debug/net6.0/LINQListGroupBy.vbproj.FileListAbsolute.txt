@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\bin\Debug\net6.0\LINQListGroupBy.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\bin\Debug\net6.0\LINQListGroupBy.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\bin\Debug\net6.0\LINQListGroupBy.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\bin\Debug\net6.0\LINQListGroupBy.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\bin\Debug\net6.0\LINQListGroupBy.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\obj\Debug\net6.0\LINQListGroupBy.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\obj\Debug\net6.0\LINQListGroupBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\obj\Debug\net6.0\LINQListGroupBy.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\obj\Debug\net6.0\LINQListGroupBy.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\obj\Debug\net6.0\LINQListGroupBy.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\obj\Debug\net6.0\LINQListGroupBy.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\obj\Debug\net6.0\refint\LINQListGroupBy.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\obj\Debug\net6.0\LINQListGroupBy.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\obj\Debug\net6.0\LINQListGroupBy.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListGroupBy\obj\Debug\net6.0\ref\LINQListGroupBy.dll

@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\obj\Debug\net6.0\LINQArraySelect.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\obj\Debug\net6.0\LINQArraySelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\obj\Debug\net6.0\LINQArraySelect.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\obj\Debug\net6.0\LINQArraySelect.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\obj\Debug\net6.0\LINQArraySelect.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\bin\Debug\net6.0\LINQArraySelect.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\bin\Debug\net6.0\LINQArraySelect.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\bin\Debug\net6.0\LINQArraySelect.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\bin\Debug\net6.0\LINQArraySelect.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\bin\Debug\net6.0\LINQArraySelect.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\obj\Debug\net6.0\LINQArraySelect.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\obj\Debug\net6.0\refint\LINQArraySelect.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\obj\Debug\net6.0\LINQArraySelect.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\obj\Debug\net6.0\LINQArraySelect.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArraySelect\obj\Debug\net6.0\ref\LINQArraySelect.dll

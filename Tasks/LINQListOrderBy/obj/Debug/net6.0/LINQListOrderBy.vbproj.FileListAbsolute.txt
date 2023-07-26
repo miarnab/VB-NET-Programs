@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\bin\Debug\net6.0\LINQListOrderBy.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\bin\Debug\net6.0\LINQListOrderBy.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\bin\Debug\net6.0\LINQListOrderBy.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\bin\Debug\net6.0\LINQListOrderBy.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\bin\Debug\net6.0\LINQListOrderBy.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\obj\Debug\net6.0\LINQListOrderBy.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\obj\Debug\net6.0\LINQListOrderBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\obj\Debug\net6.0\LINQListOrderBy.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\obj\Debug\net6.0\LINQListOrderBy.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\obj\Debug\net6.0\LINQListOrderBy.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\obj\Debug\net6.0\LINQListOrderBy.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\obj\Debug\net6.0\refint\LINQListOrderBy.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\obj\Debug\net6.0\LINQListOrderBy.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\obj\Debug\net6.0\LINQListOrderBy.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListOrderBy\obj\Debug\net6.0\ref\LINQListOrderBy.dll

@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\bin\Debug\net6.0\LINQListWhere.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\bin\Debug\net6.0\LINQListWhere.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\bin\Debug\net6.0\LINQListWhere.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\bin\Debug\net6.0\LINQListWhere.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\bin\Debug\net6.0\LINQListWhere.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\obj\Debug\net6.0\LINQListWhere.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\obj\Debug\net6.0\LINQListWhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\obj\Debug\net6.0\LINQListWhere.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\obj\Debug\net6.0\LINQListWhere.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\obj\Debug\net6.0\LINQListWhere.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\obj\Debug\net6.0\LINQListWhere.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\obj\Debug\net6.0\refint\LINQListWhere.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\obj\Debug\net6.0\LINQListWhere.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\obj\Debug\net6.0\LINQListWhere.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQListWhere\obj\Debug\net6.0\ref\LINQListWhere.dll
