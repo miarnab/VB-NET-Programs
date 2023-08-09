@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\bin\Debug\net6.0\LINQArrayOfType.exe
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\bin\Debug\net6.0\LINQArrayOfType.deps.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\bin\Debug\net6.0\LINQArrayOfType.runtimeconfig.json
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\bin\Debug\net6.0\LINQArrayOfType.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\bin\Debug\net6.0\LINQArrayOfType.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\obj\Debug\net6.0\LINQArrayOfType.vbproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\obj\Debug\net6.0\LINQArrayOfType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\obj\Debug\net6.0\LINQArrayOfType.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\obj\Debug\net6.0\LINQArrayOfType.AssemblyInfo.vb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\obj\Debug\net6.0\LINQArrayOfType.vbproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\obj\Debug\net6.0\LINQArrayOfType.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\obj\Debug\net6.0\refint\LINQArrayOfType.dll
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\obj\Debug\net6.0\LINQArrayOfType.pdb
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\obj\Debug\net6.0\LINQArrayOfType.genruntimeconfig.cache
+C:\Users\mitra\Desktop\VB-NET-Programs\Tasks\LINQArrayOfType\obj\Debug\net6.0\ref\LINQArrayOfType.dll
